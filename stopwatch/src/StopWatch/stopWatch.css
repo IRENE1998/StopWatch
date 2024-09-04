@@ -1,0 +1,16 @@
+.stopwatch-button {
+    padding: 15px 30px;
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50; 
+    color: white;
+  }
+  
+  .stopwatch-button:disabled {
+    background-color: #cccccc; 
+    cursor: not-allowed;
+  }
+  
